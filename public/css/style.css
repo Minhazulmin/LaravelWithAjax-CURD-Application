@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.row_st{
+    margin-top:4%;
+    
+   }
+   .mshadow{
+    box-shadow: 0px 3px 9px -1px #becac9;
+   }
+.text_color_top{
+    color: #fff;
+    background: linear-gradient(45deg, #87adfe, #ff77cd);
+}
+.text_color_bottom{
+    color: #fff;
+    background: linear-gradient(45deg, #00dcff, #03669e);
+}
+.head_bg{
+    background: linear-gradient(45deg, #f99eff, #bee0f9);
+    color: #fff;
+
+}
+.sty_button{
+    border-radius: 50px;
+}
