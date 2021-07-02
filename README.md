@@ -20,4 +20,4 @@ FB Link - https://www.facebook.com/minit61 <br>
 OUR YOUTUBE CHANNEL LINK-https://www.youtube.com/minit61
 
 
-==============Please Visite our Youtube Channel and Hit the Subscribe Button.==================================
+==============Please Visit our Youtube Channel and Hit the Subscribe Button.==================
