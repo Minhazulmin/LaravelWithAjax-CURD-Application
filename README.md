@@ -16,7 +16,7 @@ Then Run your local server http://127.0.0.1:8000/
 Thank  you for install your application
 
 For any Query please asked me at FB page
-FB Link - Facebook.com/MINIT61 <br>
+FB Link - https://www.facebook.com/minit61 <br>
 OUR YOUTUBE CHANNEL LINK-https://www.youtube.com/minit61
 
 
